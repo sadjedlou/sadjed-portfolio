@@ -106,7 +106,7 @@ export default function Portfolio() {
                 <CardContent className="p-8">
                   <h3 className="text-2xl font-semibold text-white mb-4">My Journey</h3>
                   <p className="text-slate-300 leading-relaxed mb-6">
-                    I'm currently in my second year at the Higher School of Computer Science in Algeria, where I've
+                    I'm currently in my third  year at the Higher School of Computer Science in Algeria, where I've
                     developed a strong foundation in programming languages including C, Assembly, Python, and Java. I've
                     also mastered core computer science concepts like Object-Oriented Programming (OOP), data
                     structures, and file structures.
